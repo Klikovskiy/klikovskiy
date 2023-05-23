@@ -14,11 +14,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-03c6fc?style=for-the-badge&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-2fd45b?style=for-the-badge&logo=celery&logoColor=white)
 ![Postman API](https://img.shields.io/badge/Postman_API-f58225?style=for-the-badge&logo=Postman&logoColor=white)
 
 
 ### 🔧 Периодически сталкиваюсь:
-<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /> <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
+<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /> <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" /> <img src="https://img.shields.io/badge/Redis-%23F05033.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
 ## 😎 Немного о себе
 * 👀 Люблю учится и практиковаться [Codewars](https://www.codewars.com/users/Klikovskiy), [Stepik](https://stepik.org/users/613186191);
