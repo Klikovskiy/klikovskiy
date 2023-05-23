@@ -1,5 +1,5 @@
 Я **Python Backend** разработчик, имею опыт работы с Django, интересуюсь разработкой ботов для Telegram.
-Занимаюсь паркингом данных с различных web ресурсов.
+Занимаюсь парсингом данных с различных web ресурсов.
 
 **Контакты**: Telegram [@klikovskiy](https://t.me/klikovskiy) | nikita.centerarts@gmail.com
 
