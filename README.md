@@ -20,7 +20,6 @@
 ### 🔧 Периодически сталкиваюсь:
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /> <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
 
-
 ## 😎 Немного о себе
 * 👀 Люблю учится и практиковаться [Codewars](https://www.codewars.com/users/Klikovskiy), [Stepik](https://stepik.org/users/613186191);
 * 🤖 «Загружаю» знания отсюда [Stepik](https://stepik.org/), [Real Python](https://realpython.com/). Изучаю множество тематических книг и документации;
