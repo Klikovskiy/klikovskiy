@@ -21,14 +21,14 @@
 ### 🔧 Периодически сталкиваюсь:
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /> <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" /> <img src="https://img.shields.io/badge/Redis-%23F05033.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
-## 😎 Немного о себе
-* 👀 Люблю учится и практиковаться [Codewars](https://www.codewars.com/users/Klikovskiy), [Stepik](https://stepik.org/users/613186191);
-* 🤖 «Загружаю» знания отсюда [Stepik](https://stepik.org/), [Real Python](https://realpython.com/). Изучаю множество тематических книг и документации;
-* 📚 Книги, которые повлияли на меня: Sapiens: Краткая история человечества (Юваль Ной Харари), Разумный инвестор (Бенджамин Грэм), Ненасильственное Общение (Маршал Розенберг).
 
 
 <!--
 **Klikovskiy/klikovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😎 Немного о себе
+* 👀 Люблю учится и практиковаться [Codewars](https://www.codewars.com/users/Klikovskiy), [Stepik](https://stepik.org/users/613186191);
+* 🤖 «Загружаю» знания отсюда [Stepik](https://stepik.org/), [Real Python](https://realpython.com/). Изучаю множество тематических книг и документации;
+* 📚 Книги, которые повлияли на меня: Sapiens: Краткая история человечества (Юваль Ной Харари), Разумный инвестор (Бенджамин Грэм), Ненасильственное Общение (Маршал Розенберг).
 
 Here are some ideas to get you started:
 
